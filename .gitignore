@@ -1,3 +1,11 @@
+try.py
+*.txt
+bin/
+lib*
+*cfg
+*.out
+pics/
+
 build/
 dist/
 *.egg-info/
