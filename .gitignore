@@ -5,6 +5,7 @@ lib*
 *cfg
 *.out
 pics/
+*.sh
 
 build/
 dist/
